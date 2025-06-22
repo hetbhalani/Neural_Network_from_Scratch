@@ -27,11 +27,13 @@ I built this to learn exactly how neural networks work under the hood by underst
 - **Loss:** Categorical Cross-Entropy
 
 ---
-## 📓Derivation (Screenshots)
+## 📓Derivation
 
-![ss](./imgs/img1.jpeg)
-![ss](./imgs/img2.jpeg)
-![ss](./imgs/img3.jpeg)
+<p align="center">
+  <img src="./imgs/img2.jpeg" width="300" height="450"/>
+  <img src="./imgs/img3.jpeg" width="300" height="450"/>
+  <img src="./imgs/img1.jpeg" width="300" height="450"/>
+</p>
 
 ## 🧠 Why Build From Scratch?
 
